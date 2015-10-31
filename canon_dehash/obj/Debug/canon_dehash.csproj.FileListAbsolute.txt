@@ -1,0 +1,6 @@
+c:\users\josh\documents\visual studio 2013\Projects\canon_dehash\canon_dehash\bin\Debug\canon_dehash.exe.config
+c:\users\josh\documents\visual studio 2013\Projects\canon_dehash\canon_dehash\obj\Debug\canon_dehash.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2013\Projects\canon_dehash\canon_dehash\bin\Debug\canon_dehash.exe
+c:\users\josh\documents\visual studio 2013\Projects\canon_dehash\canon_dehash\bin\Debug\canon_dehash.pdb
+c:\users\josh\documents\visual studio 2013\Projects\canon_dehash\canon_dehash\obj\Debug\canon_dehash.exe
+c:\users\josh\documents\visual studio 2013\Projects\canon_dehash\canon_dehash\obj\Debug\canon_dehash.pdb
