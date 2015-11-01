@@ -19,7 +19,7 @@ namespace canon_dehash
         static List<string> output = new List<string>();
         static void Main(string[] args)
         {
-            string filename = "bo2_dvars.txt"; //args[0];
+            string filename = args[0];
 
 #if test
             Console.Write(filename);
